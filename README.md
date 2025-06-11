@@ -1,2 +1,2 @@
 # TareaPid
-Esta es una tare a de PID
+Esta es una tarea de PID
